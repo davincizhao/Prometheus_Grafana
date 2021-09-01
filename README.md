@@ -38,5 +38,5 @@ docker run -d \
 --privileged=true \
 google/cadvisor
 
-ufw allow 3000/tcp
+ufw allow 9595/tcp
 ```
