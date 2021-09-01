@@ -1,8 +1,8 @@
 # Install Prometheus_Grafana docker image in ubuntu server Z600 workstation
-- prometheus port: 9090	monitoring server pull data 
-- node-exporter port: 9100	collect hardware/os metrics
-- grafana port 3000	data visualation
-- cadvisor 9595	collect all containers that running on server
+- prometheus port: 9090,	monitoring server pull data .
+- node-exporter port: 9100,	collect hardware/os metrics.
+- grafana port:3000,	data visualation.
+- cadvisor port: 9595,	collect all containers that running on server.
 
 ## Installation using docker
 - install prometheus and run this container
