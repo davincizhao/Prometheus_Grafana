@@ -41,9 +41,11 @@ google/cadvisor
 ufw allow 9595/tcp
 ```
 ## Screenshots
-*Prometheus*
+- *Prometheus*
 ![prometheus](https://github.com/davincizhao/Prometheus_Grafana/blob/main/snapshot_prometheus.png)
-*Grafana-data-monitoring-virtualization*
+
+- *Grafana-data-monitoring-virtualization*
 ![Node exporter](https://github.com/davincizhao/Prometheus_Grafana/blob/main/snapshot%20grafana%20from%20node-exporter%20for%20z600%20server.png)
-*CAdviser*
+
+- *CAdviser*
 ![Cadviser](https://github.com/davincizhao/Prometheus_Grafana/blob/main/snapshot_cadviser.png)
